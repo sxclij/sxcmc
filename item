@@ -1,0 +1,11 @@
+Item.tag:{
+    cmd:{
+        cb:{
+            type:[drop]
+            pos:[]
+        }
+        ui:{
+            pos:[]
+        }
+    }
+}

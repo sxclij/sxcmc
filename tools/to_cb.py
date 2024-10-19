@@ -2,7 +2,7 @@ import pyautogui
 import pyperclip
 import time
 
-path = "C:\\u\\repo\\sxcmc\\command\\switch_creative.mcfunction"
+path = "C:\\u\\repo\\sxcmc\\command\\register.mcfunction"
 src = ""
 
 with open(path, 'r') as file:
